@@ -27,7 +27,11 @@ Este projeto Flutter é um **simulador de financiamento de veículos**, que perm
 ## 🧩 Estrutura de Pastas
 
 lib/
+
 ├── main.dart # Ponto de entrada da aplicação
+
 ├── models/ # Modelos de dados (Carros, Motos, Caminhões)
+
 ├── screens/ # Telas do app (Home, Detalhes, Listagens)
+
 ├── widgets/ # Componentes reutilizáveis (cards, botões, etc)
